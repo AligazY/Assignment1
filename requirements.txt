@@ -1,0 +1,1 @@
+Visual Studio with Python 3 and pycoingecko~=2.2.0
